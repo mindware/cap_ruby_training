@@ -1,0 +1,27 @@
+Examples for the Ruby Tutorial for the Good Standing Certificate knowledge transfer. This component of the knowledge transfer included Ruby, but the whole training included:
+
+- Project Overview: What we set out to Solve
+	- The identity theft problem
+	- The lack of trust in the previous system
+	- The operational aspects in the Puerto Rico Police Department
+	- Properly handle requests and millions of page views
+	- Inter-agency communication 
+	- A more robust Criminal Registry Validation
+	- Citizen Identity Validation 
+	- The solution
+	- Integrated Criminal Registry at the DOJ
+	- The Products:
+		- Web App
+		- Government Messaging Queue System
+			- GMQ API
+			- GMQ Workers
+		- Android App
+		- iPhone App 
+- Network Security Infrastructure Design
+- Scalable Infrastructure Design 
+- Agile Development
+- DevOps: Deployment Automation with Ansible
+- Ruby 
+	- Language Basics
+	- Gems
+- Redis: fast key-value database (noSQL) 
